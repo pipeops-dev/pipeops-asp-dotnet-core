@@ -1,5 +1,5 @@
 is_global = true
-build_property.TargetFramework = net8.0
+build_property.TargetFramework = net6.0
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
@@ -12,7 +12,7 @@ build_property.RootNamespace = pipeops_asp_dotnet_core
 build_property.ProjectDir = /Users/Ewere/Documents/projects/pipeops/demos/pipeops-asp-dotnet-core/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
-build_property.RazorLangVersion = 8.0
+build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = /Users/Ewere/Documents/projects/pipeops/demos/pipeops-asp-dotnet-core
