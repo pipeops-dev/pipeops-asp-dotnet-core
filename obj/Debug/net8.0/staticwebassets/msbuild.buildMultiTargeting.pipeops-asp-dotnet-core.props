@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/pipeops-asp-dotnet-core.props" />
+</Project>

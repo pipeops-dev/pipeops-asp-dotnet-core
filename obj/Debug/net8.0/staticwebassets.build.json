@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LxbowhMEqJkECv3+OK4gwwkG4Osst0iI+T1uK9k88A0=",
+  "Source": "pipeops-asp-dotnet-core",
+  "BasePath": "_content/pipeops-asp-dotnet-core",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
