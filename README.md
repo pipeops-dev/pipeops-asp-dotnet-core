@@ -1,4 +1,4 @@
-# PipeOps ASPET.NET Core Starterkit 
+# PipeOps ASP.NET Core Starterkit 
 
 ### Get Started
 Firstly you need to clone the project 
